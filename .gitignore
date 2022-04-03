@@ -1,0 +1,9 @@
+# IDE Metadata
+.vscode
+.idea
+
+# Node.js dependencies
+node_modules
+
+# Typescript transpiled output
+dist
